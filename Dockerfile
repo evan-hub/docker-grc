@@ -1,1 +1,1 @@
-FROM b.gcr.io/tensorflow/tensorflow-full 
+FROM gcr.io/tensorflow/tensorflow-full 
